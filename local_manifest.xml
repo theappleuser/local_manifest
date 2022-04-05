@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <remote name="AP"
+                fetch="https://github.com/sayooxx" />
+        <remote  name="SB"
+                fetch="https://github.com/Havoc-Devices" />
+       
+       
+                    
+
+        <project path="device/asus/X01AD" name="android_device_asus_X01AD" remote="SB" revision="eleven" />
+        <project path="vendor/asus/X01AD" name="android_vendor_asus_X01AD" remote="AP" revision="eleven" />
+        <project path="kernel/asus/X01AD" name="android_vendor_asus_X01AD" remote="AP" revision="eleven" />
+        
+        
+</manifest>
